@@ -50,7 +50,7 @@ Imagine developing a library management system:
 import keyword
 print(keyword.kwlist)
 ### Real-world Example:
-
+```
 > Think of a traffic light system where colors (red, green, yellow) are like "keywords" with specific meanings (stop, go, slow down) that can't be changed.
 
 ### QA Flashcards:
